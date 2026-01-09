@@ -33,7 +33,7 @@ const education = [
   {
     degree: 'Secondary (Class X)',
     institution: 'Bidhannagar Municipal School',
-    period: '2017 – 2019',
+    period: '2009 – 2019',
     location: 'Kolkata, West Bengal',
     focus: 'General Studies',
     highlights: [
