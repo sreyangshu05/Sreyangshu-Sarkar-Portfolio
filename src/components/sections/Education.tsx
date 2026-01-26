@@ -5,6 +5,18 @@ import { Section } from '../ui/Section';
 
 const education = [
   {
+    degree: 'Master of Science in Computer Science',
+    institution: 'Kolkata, West Bengal',
+    period: 'Oct. 2024 – Present',
+    location: 'Kolkata, West Bengal',
+    focus: 'Computer Science',
+    highlights: [
+      'CGPA: 6.0',
+      'Relevant Coursework: Mathematics for Computing, Data Structures and Algorithms, Object Oriented Analysis and Design', 'Advanced Database Management System, Advanced Operating System, Compiler Design', 'Cryptography and Network Security, Image Processing and Pattern Recognition, Artificial Intelligence'
+    ],
+    icon: GraduationCap
+  },
+  {
     degree: 'Bachelor of Science in Computer Science (Honours)',
     institution: 'University of Calcutta',
     period: 'Sep. 2021 – Aug. 2024',
